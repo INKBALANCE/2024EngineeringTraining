@@ -1,1 +1,2 @@
 # 2024EngineeringTraining
+这是在工程训练期间做的一些训练
